@@ -1,0 +1,105 @@
+my:me
+boss:admiral
+manager:admiral
+captain:cap'n
+friends:crew
+delete:scuttle
+erase:scuttle
+throw away:scuttle
+myself:meself
+your:yer
+you:ye
+friend:matey
+friends:maties
+worker:shipmate
+co-worker:shipmate
+workers:shipmates
+co-workers:shipmates
+person:landlubber
+people:landlubbers
+guys:scurvey dogs
+before:afore
+earlier:afore
+old:auld
+the:th'
+oof:o'
+don':dern't
+don't:dern't
+never:ne'er
+ever:e'er
+over:o'er
+yes:aye
+yeah:aye
+yea:aye
+no:nay
+came:arrived
+nah:nay
+nope:nay
+don't know:dinna
+haven't:ha'nae
+didn't:di'nae
+wasn't:weren't
+for:fer 
+between:betwixt
+around:aroun'
+to:t'
+it's:'tis
+woman:wench
+wife:lady
+girl:lass
+girls:lassies
+guy:lubber
+man:lubber
+fellow:lubber
+dude:lubber
+boy:lad
+boys:laddies
+am:be
+are:be
+children:little sandcrabs
+kids:minnows
+him:that scurvey dog
+her:that comely wench
+him:that drunken sailor.
+her:that comely lass.
+he:that ornery cuss
+she:that winsome lass
+he's:he be
+she's:she be
+they're:they be
+was:were bein'
+hey:avast
+hi:avast
+hello:avast
+ocean:high seas
+food:chow
+road:sea
+freeway:high seas
+roads:seas
+street:river
+streets:rivers
+highway:ocean
+highways:oceans
+car:boat
+cars:boats
+truck:schooner
+trucks:schooners
+SUV:ship
+airplane:flying machine
+machine:contraption
+driving:sailing
+travel:sailing
+travelling:sailing
+damn:Arrrr
+ass:dungbie
+cheat:hornswaggle
+cheated:hornswaggled
+pirate:buccaneer
+beer:grog
+wine:grog
+basement:bilge
+punish:keel-haul
+punished:keel-hauled
+dollar:doubloon
+dollars:doubloons
+video games:tellethingies
